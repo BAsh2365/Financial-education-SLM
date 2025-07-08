@@ -1,0 +1,141 @@
+Like every investor, you want to choose investments that will provide the growth and income you need to meet your financial goals. To do that, it's important for you to understand what your investment choices are, how different types of investments put your money to work, and the terminology used when discussing investments tools. Below is a list of investment-related terms to help you understand the complex world of financial investments.
+
+Asset Allocation
+Asset allocation is the process of divvying-up (or allocating) your money among some - or all - of the primary asset classes; for example, stocks, bonds and cash. Different combinations or pairings of asset classes create different risk/return profiles.
+
+Asset Class
+An asset class is a group of securities that have similar characteristics, react similarly in the marketplace and are subject to the same laws and regulations. The three basic asset classes are stocks, bonds and cash. Other asset classes include real estate, precious metals and natural resources. Note: A security is a publically-traded financial instrument such as a stock, bond, mutual fund, exchange-traded fund and a variable annuity.
+
+Annuity
+An annuity is a financial product sold by an insurance company. It involves a contract between you and the insurance company that outlines the terms and conditions of the annuity. Annuities are generally used to accumulate tax-deferred savings under which you make a lump-sum payment, or series of payments, to the insurance company. In return, the insurer agrees to make periodic payments to you beginning immediately or at a future date. Listed below are types of annuity products:
+
+Fixed-Rate Annuity
+The insurance company agrees to pay the contract holder no less than a specified rate of return for a pre-determined period.
+Indexed Annuity
+The insurance company credits the contract holder with a return that is based on changes in an index, such as the S&P 500 Index. Indexed annuity contracts also provide that the contract value will be no less than a specified minimum, regardless of the performance of the underlying index.
+Variable Annuity
+A variable annuity offers sub-accounts or mutual funds through which the contract holder can invest in the stock and bond markets. The rate of return, and the value of the annuity, are 'variable' and dependent upon the performance of the underlying investments selected. Variable annuities are securities and are regulated by the Securities and Exchange Commission (SEC).
+Annuitization
+Annuitization is the process of converting your annuity into a series of periodic income payments. You should not annuitize your annuity without careful consideration. Once you decide to annuitize, you cannot reverse your decision. There is no flexibility to increase or decrease the payments or extend or shorten the length of time payments are made. You cannot make any lump-sum withdrawals either.
+
+Benchmark
+A standard against which the performance of a security, mutual fund or investment manager can be measured. Generally, an index is used as a benchmark. The objective of actively-managed funds is to out-perform a representative benchmark (index) when measured over a multiple-year period.
+
+Bonds
+Bonds are debt securities issued by publicly-traded companies, municipalities, state and federal government. Bondholders are referred to as creditors of the issuing company or entity. Bonds can be owned individually or through a bond mutual fund or an exchange-traded fund (ETF).
+
+Risk & Return
+There are several unique types of risk associated with bonds. Two notable ones are "interestrate risk" and "credit risk." Bonds have higher risk than cash and typically have higher returns than cash.
+Interest Rate Risk
+Typically, as interest rates rise, the price of existing bonds decline in value. Conversely, as interest rates decline, the price of existing bonds will rise in value.
+Credit Risk
+Credit risk is defined as a deterioration in the financial condition of a corporation or other issuing entity that negatively affects the price of the bond prior to maturity. A company or other entity's creditworthiness may deteriorate to the point that renders it unable to make a scheduled interest payment or worse, repay its loan. This is referred to as a 'default.'
+Credit Risk and Return
+Government bonds historically have the lowest credit risk among bond categories and historically have lower returns.
+High-quality corporate bonds historically have higher credit risk and higher returns than government bonds.
+Low-quality corporate bonds historically have higher "credit" or "default risk" and higher returns than high-quality corporate bonds. Lower-quality bonds are often referred to as "high-yield" or "junk" bonds.
+Market conditions can affect these bond categories, having one category "in favor" and another category "out of favor. This can affect the risk and return profile of a given bond category and its risk and return profile relative to that of other bond categories.
+
+Credit Ratings
+Credit rating agencies like Moody's and Standard & Poor's affirm the credit worthiness - or credit risk, of corporations and government entities in the form of a credit rating. The ratings range from 'AAA' for the highest-quality - or lowest credit risk, to 'D' for a company or government entity in default. Like your own credit score, the higher the rating, the more favorable the financing.
+
+Interest Rates and Prices
+Bond prices and interest rates have an inverse relationship to each other. For example, as interest rates rise, the prices of existing bonds tend to decrease in value as newly-issued bonds offer higher, more attractive coupon rates. And as interest rates decline, the price of existing bonds tend to increase in value as newly-issued bonds offer lower, less attractive coupon rates.
+Interest Rates and Maturity
+As a general rule the maturity date of a bond is a significant factor in how its price may be affected by increases or decreases in interest rates.
+Long-term bonds with maturities of 10 years or more are more affected by increases and decreases in interest rates.
+Short-term bonds with maturities of 5 years or less are less affected by increases and decreases in interest rates.
+Cash
+Cash can be described as "ready money." In the context of investing, cash typically takes the form of a cash alternative like a money market mutual fund. Money market funds are required by law to invest in highly-liquid, low-risk fixed-income securities such as CDs, government securities and high-quality commercial paper. Money market mutual funds are not guaranteed or federally insured.
+
+Cash: Risk & Return
+Cash is considered a low-risk, low return asset. Cash can remain as cash in your account, but typically cash is converted into a cash equivalent.13-week T-bills, CDs and money market mutual funds are all considered cash equivalents.
+
+Closed-End Fund
+A 'closed-end fund,' legally known as a "closed-end company," is one of three basic types of investment companies. The two other basic types of investment companies are mutual funds and unit investments trusts (UITs). Closed-end funds generally do not continuously offer their shares for sale. Rather, they sell a fixed number of shares at one time (in an initial public offering), after which the shares typically trade on a secondary market. The price of closed-end fund shares that trade on a secondary market after their initial public offering is determined by the market and may be greater or less than the shares' net asset value (NAV). The investment portfolios of closed-end funds generally are managed by separate entities known as "investment advisers" that are registered with the SEC.
+
+Diversification
+Diversification is the risk management process of selecting several different investments for each asset class. Diversifying within an asset class reduces exposure to risks associated with a particular company, industry or sector. For mutual funds and ETFs (see "Mutual Funds" and "Exchange Traded Funds"), diversifying by investment category (see "Investment Category") is another way to reduce the risks associated with one investment category.
+
+Exchange-Traded Funds (ETFs)
+Exchange-traded funds (ETFs), are investment companies that are legally classified as open-end companies or unit investment trusts (UITs) but they also differ from open-end companies and UITs in that they do not sell individual shares directly to investors and only issue their shares in large blocks that are known as "creation units." Investors generally do not purchase creation units with cash. Instead, they buy creation units with a basket of securities that generally mirrors the ETF's portfolio. Those who purchase creation units are frequently institutions. ETFs are not considered to be-and may not call themselves-mutual funds.
+
+Most ETFs seek to achieve the same return as a particular market index. That type of ETF is similar to an index fund in that it will primarily invest in the securities of companies that are included in a selected market index such as the S&P 500 Composite Stock Price Index, for example. An ETF will invest in either all of the securities or a representative sample of the securities included in the index.
+
+ETFs also include actively-managed ETFs that pursue active management strategies and publish their portfolio holdings on a daily basis. Other types of ETFs include leveraged or inverse ETFs, which are ETFs that seek to achieve a daily return that is a multiple or an inverse multiple of the daily return of a securities index. An ETF, like other types of investment companies, will have a prospectus.
+
+Expense Ratio
+The expense ratio is the total percentage of fund assets used for administrative, management, advertising, and all other expenses such as recordkeeping, custodial services and legal expenses. An expense ratio of 1% per annum means that each year 1% of the fund's total assets will be used to cover expenses. Since fund performance is the calculated net of expenses; expense ratios have a material effect on fund performance. The expense ratio does not include the fund's trading activity, sales load or brokerage commissions.
+
+Index
+An index is a statistical measure of change in an economy or a securities market. In the case of financial markets, an index is an imaginary portfolio of securities representing a particular market or a portion of it. Each index has its own calculation methodology and is usually expressed in terms of a change from a base value. Thus, the percentage change is more important than the actual numeric value.
+
+Stock and bond market indexes are used to construct index mutual funds and exchange-traded funds (ETFs) whose portfolios mirror the components of the index.
+
+The following indexes represent a wide array of financial markets:
+
+Standard & Poor's 500 (S&P 500) represents a broad market and is one of the world's best known indexes. This index is the most commonly used benchmark for the stock market.
+Formerly the Lehman Brothers Aggregate Bond Index, the Barclay's Capital Aggregate Bond Index (BarCap Aggregate) represents a broad market and is a commonly used benchmark for the total bond market.
+Dow Jones Wilshire 5000 was commonly comprised of 5000 stocks, but today is made up of more than 6,700. A prominent index, this is one of the broadest indexes and is designed to track the overall performance of the U.S. stock markets. This index is a commonly used benchmark for the total stock market.
+Dow Jones U.S. Technology Index represents a segment of a broad market like the S&P 500, for example: The S&P 500 is composed of 10 sectors. One of which is Technology.
+Morgan Stanley Capital International's European, Australian, and Far Eastern (MSCI EAFE) indexes represent the market of a region for foreign stocks in Europe, Australasia (a geographical region including Australia, New Zealand, and the neighboring islands), and the Far East.
+British FTSE 100 represents the market of a nation. Similar to the S&P 500 in the Unites States, this is an index of blue-chip stocks on the London Stock Exchange.
+Because, technically, you can't actually invest in an index, index mutual funds and exchange-traded funds (based on indexes) allow investors to invest in securities representing broad market segments and/or the total market.
+
+Investment Category
+Investment categories allow investors to know more about a particular fund's investment objective and the types of securities that make up most of the fund's holdings. One basic way of categorizing stock funds is by market capitalization; for example, large-cap, mid-cap and small-cap and by investment style, such as value, growth and blend (a combination of value and growth). Bond funds are generally categorized by their average portfolio maturities. For example, long-term, intermediate and short term, and by credit quality: high-quality, medium and low-quality.
+
+Investment Objective
+The end toward which your investment-related actions are directed or coordinated. An investment objective is a "what," not a "how." An example of an investment objective would be "moderate growth and income."
+
+Investment Strategy
+Investment strategy is the actions you undertake to meet the investment objective. Investment strategy is a "how," not a "what." It is a thoughtfully-constructed plan or method or action that will be employed to achieve the result. To meet the investment objective of "moderate growth and income," an example strategy might be a combination of components: growth mutual funds and ETFs, individual dividend-paying stocks, individual bonds, bond mutual funds and ETFs.
+
+Investment Style
+Value Style
+Invest in stocks that trade at a lower price relative to their fundamentals, i.e., dividends, earnings, sales, etc. and are thus considered undervalued.
+Blend Style
+Invest in both growth and value stocks with typically broader sector and industry exposure that combine growth and value styles.
+Growth Style
+Invest in companies with accelerating sales and earnings, typically in rapidly growing industries.
+Mutual Fund
+A mutual fund is an investment company that invests, on behalf of its shareholders, in a basket of securities in accordance with its stated investment objective, and investment category. For example, a large cap growth fund investing in a basket of large cap companies whose earnings and revenue are growing more rapidly than other large cap companies, a foreign stock mutual fund investing in a basket of companies domiciled outside of the United States or a corporate bond fund investing in a basket of debt instruments issued by corporations. Mutual funds are sold by prospectus which provides you with complete information about the fund's investment objective, fees and expenses and historical returns. The following are types of mutual funds:
+
+"Actively-managed" Fund
+A type of mutual fund or ETF that seeks to outperform the market, such as a Large Cap fund outperforming the S&P 500 Index, through superior security selection, over or under-weighting various sectors, etc.
+Indexed or "Passively-Managed" Fund
+A type of mutual fund or ETF constructed to closely track the return of a broad-market index, such as the S&P 500 Index, a sector within a broad market, a specific investment category, region or country. Passively-managed funds have typically lower expenses than actively managed funds. An investment cannot be made directly into an index.
+Required Minimum Distribution (RMD)
+Also referred to as minimum required distribution (MRD), required minimum distribution (RMD) is the amount that qualified plan participants, traditional, SEP and SIMPLE IRA owners must begin taking from their retirement accounts by April 1 following the year they reach age 70½.
+
+RMD amounts must then be distributed each subsequent year. The RMD is based on the December 31 value of the account prior to the year for which the individual is required to take a distribution. That total is then divided by the life expectancy or the joint life expectancy of the individual and the individual's oldest primary beneficiary as determined by the IRS. Roth IRA accounts are not subject to RMDs. Also, under certain circumstances, some 401(k) plans allow current employee participants to defer taking RMDs until they retire, even if they are older than 70½. Failure to take a RMD results in a 50% penalty.
+
+Rollover, Direct
+A distribution of eligible rollover assets from a qualified pension plan, 401(k), 403(b) plan, or a governmental 457 plan to a traditional IRA or another qualified pension plan, 401(k), 403(b) plan, or a governmental 457 plan; or a distribution from an IRA to a 401(k), 403(b) plan, or a governmental 457 plan. Direct rollover assets are remitted directly to the qualified plan or IRA Custodian/Trustee, never to the individual. A direct rollover is reportable but not a taxable event. Plans that offer only a distribution check to the employee can accomplish a direct transfer by making the check payable to the new custodian FBO (for the benefit of) the employee's name.
+
+Rollover, Indirect
+A distribution of eligible rollover assets from a qualified pension plan, 401(k), 403(b) plan, or a governmental 457 plan into an IRA. Indirect rollover assets are paid to the individual who then has full use of the funds for 60 days after which the funds must be re-deposited into a qualified IRA or into an eligible employer-sponsored retirement plan. The re-deposited amount must equal 100% of the amount distributed by the employer including the 20% withholding. Failure to re-deposit the funds within IRS guidelines will subject the entire distribution to income tax and a 10% early withdrawal penalty if the employee is under age 59½.
+
+Rule 72(t)
+Rule 72(t) is an Internal Revenue Service (IRS) rule that allows for penalty-free withdrawals from an IRA account before the age of 59½. In accordance with the rule, the IRA owner must take at least five "substantially equal periodic payments" (SEPPs). Once the periodic payment amount is set and withdrawals begin, it cannot be changed without incurring penalties. The withdrawal amount is based upon life expectancy and is calculated using IRS-approved methods. Withdrawals are taxed as regular income.
+
+Stocks
+Stocks represent ownership or equity in a publicly-traded company. Stocks can be owned individually or through a stock mutual fund, stock ETF, closed-end fund, or unit investment trust (UIT).
+
+Risk & Return
+Stocks have higher risk than cash and bonds and statistically, stocks have higher returns than cash and bonds when measured over multiple-decade holding periods. Certain categories of stocks may have higher or lower risk relative to other stock categories.
+Domestic Large company stocks are considered to have the lowest risk among stock categories.
+Domestic Small company stocks historically have higher risk than domestic large company stocks and typically have higher returns than domestic large company stocks when measured over multiple-decade holding periods.
+Foreign-based stocks, especially companies in emerging markets have, in general, higher risks than domestic stocks. Investments in foreign countries present special risks including currency fluctuation, the potential for diplomatic and political instability and regulatory risks. In general, foreign-based stocks have the potential for equal or higher returns than domestic stocks and the potential for periods of significant out-performance and underperformance relative to domestic stocks.
+Market Capitalization
+Stocks are categorized by size: large, mid-sized and small. A company's market capitalization or 'market cap' determines its category. Market cap is calculated by taking the company's number of outstanding shares and multiplying that by its share price.
+Generally-accepted categories are:
+Small-cap stocks: market cap between $300 million and $2 billion
+Mid-cap stocks: market cap between $2 billion and $10 billion
+Large-cap stocks: market of $10 billion or more
+Many household-name companies have market caps in excess of $100 billion. These companies are often referred to as 'mega-cap' stocks. Classifications by market cap are only approximations, and a company's market cap categorization can change. For example a small cap company can grow into a large cap company and a large cap company can devalue into a mid-cap company as a result of company-specific or broad-market factors.
+
+Unit Investment Trust
+A unit investment trust is commonly referred to as a "UIT" and is one of three basic types of investment companies. The other two types are mutual funds and closed-end funds. A UIT typically issues redeemable securities (or "units"), like a mutual fund, which means that the UIT will buy back an investor's "units," at the investor's request, at their approximate net asset value (NAV). A UIT typically will make a one-time "public offering" of only a specific, fixed number of units (like closed-end funds). Many UIT sponsors, however, will maintain a secondary market, which allows owners of UIT units to sell them back to the sponsors and allows other investors to buy UIT units from the sponsors. A UIT will have a termination date (a date when the UIT will terminate and dissolve) that is established when the UIT is created. In the case of a UIT investing in bonds, for example, the termination date may be determined by the maturity date of the bond investments. When a UIT terminates, any remaining investment portfolio securities are sold and the proceeds are paid to the investors. A UIT does not actively trade its investment portfolio. That is, a UIT buys a relatively fixed portfolio of securities (for example, five, ten, or twenty specific stocks or bonds), and holds them with little or no change for the life of the UIT. Because the investment portfolio of a UIT generally is fixed, investors know more or less what they are investing in for the duration of their investment. Investors will find the portfolio securities held by the UIT listed in its prospectus.
+
+From: https://www.michigan.gov/reinventretirement/education/investment/investment-related-terms
