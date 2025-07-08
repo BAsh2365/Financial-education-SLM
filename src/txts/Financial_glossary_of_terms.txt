@@ -1,0 +1,1291 @@
+Financial Math Glossary
+
+Annuity
+An annuity is a series of payments in equal time periods, guaranteed for a fixed number of years.
+
+Annuity factor
+The present value of $1 paid for each of t periods.
+
+Arithmetic mean
+An average calculated by adding the value of the points in a data set and dividing the sum by the number of data points.
+
+Constant Perpetuity
+A constant stream of identical cash flows without end.
+
+Correlation
+A statistical measure of how two securities move in relation to each other.
+
+Coupon Rate
+Coupon Rate is the amount of interest received by a bond investor expressed on a nominal annual basis.
+
+Covariance
+A statistical measure of the variance of two random variables that are observed or measured in the same time period.
+
+Current Yield
+The coupon from a bond divided by the market price of the bond, expressed as a percentage.
+
+Discount Factor
+The percentage rate required to calculate the present value of a future cash flow.
+
+Growing Perpetuity
+A constant stream of cash flows without end that is expected to rise indefinitely.
+
+Moving Average
+The average of time-series data from several consecutive periods. It is called a moving average because the average is constantly recalculated once new data becomes available for the next period.
+
+Par Value
+Par Value is the amount returned to the bond investor by the issuer upon maturity.
+
+R-Squared
+R-Squared is a statistical term indicating how good one term is at predicting another. Generally, a higher value of R-Squared means that you can better predict one term from another.
+
+Regression Analysis
+A statistics-based method that can be used in Excel that analyzes the relationship and the strength of correlation between a dependent variable and one or more independent variables.
+
+Standard Deviation
+A measure of how far a set of data is from the average. The further it is, the higher its standard deviation is. Standard deviation is computed by taking the square root of variance.
+
+Sum of Squares
+The Sum of Squares Regression (SSR) measures how much variation there is in the modeled values and this is compared to the Total Sum of Squares (SST), which measures how much variation there is in observed data, and to the Sum of Squares Residual (SSE), which measures the variation in the modeling errors.
+
+Time Value of Money
+The idea that money is worth more the sooner it is obtained or if it is in the present. This is because money in the present can be used and invested to generate a return, while money to be expected in the future cannot be. The time value of money is affected by both the periods of time being considered as well as the discount rate for calculating present value.
+
+Variance
+Variance is a measure of the dispersion of a set of data points around their mean value. It is a mathematical expectation of the average squared deviations from the mean.
+
+Weighted Average
+An average in which some values count for more than others.
+
+Yield to Maturity
+The annual return earned by a bond investor if purchasing a bond today and holding it until maturity.
+
+https://corporatefinanceinstitute.com/resources/data-science/financial-math-glossary/
+
+
+Annuity
+An annuity is a series of payments in equal time periods, guaranteed for a fixed number of years.
+
+Arithmetic Mean
+An average calculated by adding the value of the points in a data set and dividing the sum by the number of data points.
+
+Bloomberg
+Bloomberg is a financial software, data, and media company that provides 24-hour financial news, information, and price data.
+
+Constant Perpetuity
+A constant stream of identical cash flows without end.
+
+Correlation
+A statistical measure of how two securities move in relation to each other.
+
+Coupon Rate
+Coupon Rate is the amount of interest received by a bond investor, expressed on a nominal annual basis.
+
+Covariance
+A statistical measure of the variance of two random variables that are observed or measured in the same mean time period.
+
+Credit Spread
+The spread between Treasury securities and non-Treasury securities that are identical in all respects except for quality rating.
+
+Current Yield
+The coupon from a bond divided by the market price of the bond, expressed as a percentage.
+
+Discount Factor
+A decimal number or percentage multiplied by a future cash flow value to discount it back to the present value
+
+Duration
+A measure of the sensitivity of the price of a fixed-income investment to a change in interest rates.
+
+Economic Cycle
+The natural fluctuation of the economy between periods of expansion (growth) and contraction (recession).
+
+Expected Value
+The sum of every potential value of a variable multiplied with their chance or probability of occurring.
+
+Growing Perpetuity
+A constant stream of cash flows without end that is expected to rise indefinitely.
+
+Liquidity Preference Theory
+The theory where investors demand a premium or higher rate of return for securities with longer maturity times. This is due to the additional risk they take on when making long-horizon investments.
+
+Market Segmentation Theory
+The theory that investors have different investment goals, and, therefore, there is no necessary relationship between long and short-term interest rates.
+
+Moving Average
+The average of time-series data from multiple consecutive periods. It is considered a “moving” average because the average is constantly recalculated once new data becomes available for the next period.
+
+Nominal Value
+The value of a security, such as a stock or bond, which remains fixed for the duration of its life.
+
+Par Value
+Par Value is the amount returned to the bond investor by the issuer upon maturity.
+
+Pension Funds
+A fund set up by an employer for the investment of an employee’s retirement savings. These savings are contributed by both the employer and employees.
+
+Pure Expectations Theory
+The idea that long-term interest rates predict what short-term rates will do in the future. So when the market expects short-term rates to fall, we expect to see lower long-term rates.
+
+Standard Deviation
+A measure of how far a set of data is from the average. The further it is, the higher its standard deviation is. Standard deviation is computed by taking the square root of variance.
+
+Sum of Squares
+The Sum of Squares Regression (SSR) measures how much variation there is in the modeled values and this is compared to the Total Sum of Squares (SST), which measures how much variation there is in the observed data, and to the Sum of Squares Residual (SSE), which measures the variation in the modeling errors.
+
+Supranational
+International organizations or groups that operate beyond national boundaries. These groups share decision-making and look to work on issues regarding multiple countries. For example, the European Union is a supranational organization.
+
+Time Value of Money
+The concept that holds that a specific sum of money is more valuable the sooner it is received. Time value of money is dependent not only on the time interval being considered but also the rate of discount used in calculating current or future values.
+
+Variance
+A measure of how far a set of data is from their average value. The expectation of average squared deviations from the mean of a set of data.
+
+Weighted Average
+An average in which some values count for more than others.
+
+Yield Curve
+A graph plotting interest rates of bonds with equal credit risk, at the same point in time, but with different maturity rates.
+
+Yield to Maturity
+The annual return earned by a bond investor if purchasing a bond today and holding it until maturity.
+
+Zero Coupon Bond
+As the name suggests, this is a bond that has no coupon payments. It is typically traded at a discount, so there is a profit when it is redeemed for face value at maturity.
+
+Anchoring bias
+Relying on the first piece of information that’s encountered as a reference point (or anchor).
+
+Confirmation bias
+Our natural tendency is to listen to people who agree with us.  It feels good to hear our own opinions reflected back to us.
+
+CRT test
+Cognitive reflection task test
+
+Framing bias
+Judging information by how it was presented rather than at face value. Changes in phrasing, or how the problem was “framed“, can cause investors to change their conclusion.
+
+Herding bias
+We are hard-wired to herd. Going against the crowd / non-conformity triggers fear in people.
+
+Hindsight bias
+Prevents us from recognizing our mistakes. We tend to believe that after something happened, we knew about it all along.
+
+Illusion of control
+More information leads people to believe they can influence the outcome of uncontrollable events.
+
+Illusion of knowledge
+The tendency to believe that the accuracy of our forecasts increases with more information.
+
+Loss aversion
+Investors hate losses between 2 and 2.5 times as much as they enjoy equivalent gains.
+
+Narrative fallacy
+Stories govern the way we think. We will abandon evidence in favor of a good story. Admired stocks often come with great stories and high prices.
+
+Reflective reasoning
+The logical approach to decision-making.
+
+Reflexive reasoning
+The emotional approach to decision making that is automatic, effortless, and the default option.
+
+Representative bias
+The judgment of events by how they appear, rather than by how likely they are.
+
+Self-attribution bias
+The tendency to attribute good outcomes to skill and bad outcomes to sheer luck.
+
+Financial Analysis Ratios Glossary
+Below is a glossary of terms and definitions for the most common financial analysis ratios terms.  When calculating financial ratios using vertical and horizontal analysis, and ultimately the pyramid of ratios, it’s important to have a solid understanding of basic terms. The below information is taken from CFI’s Financial Analysis Fundamentals Course.
+
+Accounts Payable
+Synonyms: payables, creditors
+
+Accounts Payable is the amount owed by an organization to others for goods or services received. Buying from suppliers on credit will generate accounts payable.
+
+Accounts Receivable
+Synonyms: receivables, debtors
+
+Accounts Receivable is the amount due to an organization for goods delivered or services rendered. Selling to customers on credit will generate accounts receivable for a business.
+
+Accounts Payable Days Ratio
+Accounts payable / COGS x 365. Average number of days a firm takes to pay for items purchased.
+
+Accounts Payable Turnover
+Cost of sales / Accounts payable (either the ending balance or average balance). This ratio measures how effective management is in paying its suppliers.
+
+Accounts Receivable Days Ratio
+Accounts receivable / Sales x 365. Average number of days a firm takes to collect payments on goods sold.
+
+Accounts Receivable Turnover
+Sales / Accounts receivable (either the ending balance or average balance). This ratio measures how effective the company’s credit and collection policies are.
+
+Acid Test
+See quick ratio.
+
+Administration Cost Ratio
+Administration costs / Sales. This margin shows the general overhead cost for each dollar of sales.
+
+Amortization
+The gradual reduction of a financial amount over time.
+
+Assets
+Assets are resources owned and employed by an organization that confers future economic benefits.
+
+Asset Turnover Ratio
+Sales / Total assets. This ratio shows how effective the company is in generating sales from its assets.
+
+Audit
+Audit is the process of examination and verification of a firm’s books of account, transaction records, and other relevant documents, including financial models.
+
+Average Balance
+(Opening balance – Closing balance) / 2. This balance can be used to calculate efficiency/turnover ratios instead of using a closing balance.
+
+Balance Sheet
+The Balance Sheet is a snapshot of an organization’s assets and liabilities on a particular date. The balance sheet shows the sources of funds provided to an organization (called the capital employed and normally either equity or debt) and how those funds have been used by the organization to invest in fixed assets (assets the organization intends to keep for more than one year) and working capital (money tied up in the day-to-day operations of the business)
+
+Capital
+See capital employed.
+
+Capital Asset
+Assets such as property, plant, and equipment employed to generate income.
+
+Capital Employed
+Synonyms: capital
+
+Capital employed represents the funds provided to an organization in the form of equity or debt.
+
+Capital in Excess of Par Value
+See contributed surplus.
+
+Capital Stock
+Synonyms: stock, shares, share capital
+
+There are two types of stock – common stock and preferred stock. Most shares tend to be common stock and generally carry one vote each and carry an equal right to a proportionate share of dividends. Capital stock is not a liability in the sense of other sources of funds (e.g., bank loans) since it is not generally paid back to shareholders unless the company is wound up.
+
+Cash Flow Statement
+The Cash Flow Statement is a summarized bank statement that shows an organization’s sources of cash during the financial year and the ways in which the cash has been used during that period (e.g., investments, fixed asset purchases, etc.).
+
+Circular References
+Circular references occur when a formula includes a reference to the cell in which the formula appears.
+
+COGS
+Cost of Goods Sold.
+
+Common Shares
+See common stock.
+
+Common Stock
+Synonyms: common shares, ordinary shares
+
+Most shares tend to be common stock carrying one vote each and with an equal right to a proportionate share of dividends. Common stock dividends tend to rise as profits grow. This is in contrast to preferred stock where the dividend tends to be fixed.
+
+Contributed Surplus
+Synonyms: share premium, capital in excess of par value
+
+Most stock is originally issued with a nominal/par value attached to it (e.g., one share in ABC Inc. has a nominal value of $1.00). However, if shareholders buy shares from the company for more than the nominal value (e.g. $1.50), then the excess is called the contributed surplus.
+
+Coverage Ratios
+Ratios that analyze a company’s liquidity or its ability to “cover” its financial debt obligations. An example of a coverage ratio is EBITDA / Interest expense.
+
+Creditors
+See accounts payable.
+
+Current Assets
+Current Assets are all assets other than fixed assets. They are either cash or assets expected to be converted into cash or consumed by the business during the year. Current assets include items such as cash, accounts receivable, and inventory.
+
+Current Liabilities
+An organization’s liabilities due within one year. Current Liabilities include items such as short-term loans, any element of long-term loans due within one year, and accounts payable.
+
+Current Ratio
+Current assets / current liabilities. Current Ratio measures short-term liquidity, whether or not a company will have the ability to cover its obligations in the short term.
+
+DCF
+Discounted Cash Flow analysis. A financial evaluation method that takes the “time value of money” into account.
+
+Debt
+Debt is capital used to finance an organization that is subject to payment of interest over the life of the loan, at the end of which the loan is normally repaid.
+
+Debt Financing
+Raising money for a business through loans or by issuing bonds.
+
+Debtors
+See accounts receivable.
+
+Depreciation
+Synonyms: amortization
+
+Depreciation of fixed assets is the process of allocating part of the cost of fixed assets to a particular accounting period. Depreciation is normally charged to the income statement on a straight-line basis (although there are alternative methods available). For example, if a car is bought for $15,000, has an expected life of 5 years, and has a residual value (expected scrap value) of $5,000, then the depreciation expense in the income statement will be $2,000 per year for 5 years. The value of the car in the balance sheet would start at $15,000 but would be reduced by $2,000 a year. At the end of year 1, the net book value (NBV) of the car in the balance sheet would be $13,000. At the end of year 2, the NBV would be $11,000. The accumulated depreciation for the car at the end of year 2 would be $4,000.
+
+Direct Costs
+Direct costs are those that are directly attributable to the product or service provided by the organization. They are included in the cost of goods sold.
+
+Dividends
+A share of a company’s net profits distributed by the company to a class of its stockholders.
+
+EBIT
+Earnings Before Interest and Taxes. See operating profit.
+
+EBIT Margin
+EBIT / Sales.
+
+EBITDA
+Earnings Before Interest, Taxation, Depreciation, and Amortization.
+
+Equity
+Synonyms: shareholders’ equity, shareholders’ funds
+
+Equity is total assets less total liabilities. Also called shareholders’ equity, net worth, or book value.
+
+Equity Financing
+The money acquired from the business owners themselves or from other investors.
+
+Financial Covenants
+Financial Covenants are the promises made by the borrowing firm in a loan agreement to adhere to certain limits in the firm’s operations.
+
+Financial Model
+A Financial Model is a mathematical model describing the interrelationships among various financial variables. Typically, financial models are broken down into inputs, processing, and outputs.
+
+Financial Statements
+Financial Statements are statements, in financial terms, of the financial position of an entity at a given date, or of the results of its operations for a given period. The statements are normally prepared in one of a number of standard formats. Most commonly, when people refer to financial statements, they mean the income statement, the balance sheet, the cash flow statement, and the related notes to the accounts.
+
+Fixed Assets
+Assets intended for use on a continuing basis in an organization’s activities (normally defined as assets an organization intends to keep for more than one year). There are three categories of fixed assets: intangible, tangible, and investments.
+
+Forecast
+The projection or estimate of future sales, revenue, earnings, or costs.
+
+Goodwill
+When one company buys another company it typically pays more than the book value of the net assets acquired (because it is acquiring staff, name/reputation, and customer relationships). This excess of the purchase price over the fair book value of the net assets is called goodwill. Goodwill is normally included in the balance sheet as an intangible fixed asset.
+
+Gross Margin
+Gross profit / Sales revenue. Gross margin shows how much was spent producing the good or service that was sold for every dollar of sales revenue.
+
+Gross Profit
+Gross Profit is sales revenue less cost of sales.
+
+Income Statement
+Synonyms: profit and loss account, P&L statement, statement of earnings
+
+The Income Statement is an organization’s financial history book and summarizes the revenue, expenses, and operating profit for the financial year. It also shows the tax charged against profit, how much of the profit for the year has been paid out in dividends, and how much has been retained in the business.
+
+Inputs
+Financial model assumptions that are used to drive model outputs.
+
+Intangible Fixed Assets
+Intangible fixed assets have no physical presence. Examples include patents, goodwill, trademarks, and brand names.
+
+Interest Bearing Current Liabilities (IBCL’s)
+These are liabilities that bear interest, normally short-term borrowings. They are excluded from some ratios in order to factor in the cost of financing.
+
+Interest Coverage Ratio
+EBIT or EBITDA / Interest expense. This solvency ratio shows how much income is available to service debt costs.
+
+Inventory
+Inventory normally refers to items held for resale and may include raw materials, work in progress, and finished goods.
+
+Inventory Days Ratio
+Inventories / COGS x 365. The average number of days goods remain in inventory before being sold.
+
+Inventory Turnover Ratio
+Sales / Inventory (either the ending balance or average inventory balance). This ratio illustrates how a company manages its inventory.
+
+Investing Activities
+Deals or transactions involving sale or purchase of equipment, plant, properties, securities, or other assets.
+
+Labor Cost Ratio
+Direct labor / Sales. Cost of goods sold is made up of labor, materials, and direct costs. This margin shows the proportion of labor that goes to make up each dollar of sales.
+
+Land and Buildings Ratio
+Sales / Land and buildings. The sales generated from land and buildings are measured by this ratio.
+
+Leverage Ratios
+Leverage Ratios are ratios that analyze a company’s solvency or the level of its debt financing relative to its equity financing. An example of a leverage ratio is Total debt / Total shareholders’ equity.
+
+Liabilities
+Liabilities are money owed, or other financial obligations to other organizations and individuals.
+
+Loan Capital
+See debt.
+
+Material Cost Ratio
+Materials / Sales. Cost of goods sold is made up of labor, materials, and direct costs. This margin shows the proportion of materials that goes to make up each dollar of sales.
+
+Model Structure
+The framework around which a financial model is built.
+
+Net Assets
+Total assets less current liabilities (excluding IBCL’s).
+
+Net Asset Ratio
+Sales / Net assets. This ratio takes into account the financing of assets and measures management’s efficiency in relation to the use of assets.
+
+Net Book Value
+Net book value typically refers to property plant and equipment (PP&E). The net book value of PP&E is calculated by taking the total gross cost of PP&E and deducting total accumulated depreciation/amortization.
+
+Net Earnings
+Synonyms: net income, retained profit for the year, retained earnings for the year
+
+The profits retained by an organization after all expenses including interest expenses, taxes, and dividends. The retained profits/earnings for a given year are reinvested in the business (hopefully making the organization grow, and increasing the value of its shares) and are added to retained earnings in the balance sheet (which represent all retained profits accumulated over an organization’s entire life to date which have been reinvested in the business).
+
+Net Income
+See net earnings for Net Income.
+
+Net Profit Margin
+Net income / Sales. Net Profit Margin shows how much is earned for every dollar of sales revenue.
+
+Non-Current Assets
+Assets that are not expected to be converted into cash within 12 months of the balance sheet date.
+
+Operating Activities
+Synonyms: earnings before interest and income taxes (EBIT), profit before interest and income taxes (PBIT)
+
+Cash inflows and outflows relating to a company’s operations. Examples include receiving payments from customers, paying salaries, etc.
+
+Operating Assets
+Assets acquired for or used throughout the operations of the business (such as cash, inventory, prepaid expenses, equipment).
+
+Operating Cost Ratio
+Operating costs / Sales. This margin shows the operating expenses as a percentage of sales. This does not include cost of goods sold (as is the case with the operating profit margin), so it is an indication of the efficiency of the operation.
+
+Operating Profit
+Synonyms: earnings before interest and income taxes (EBIT), profit before interest and income taxes (PBIT)
+
+Sales revenues less all operating expenses. Operating profit is calculated before financing costs and taxes. It is often referred to as EBIT.
+
+Operating Proft Margin
+Operating Profit Margin is also known as the EBIT margin. Operating income / Sales. The performance ratio shows the cost of running the operation for each dollar of sales.
+
+Operating Revenues
+The net sales revenue accumulated by a firm.
+
+Ordinary Shares
+See common stock.
+
+Output
+Financial model calculations that are driven by one or more inputs.
+
+Personnel Cost Ratio
+Personnel costs / Sales. The personnel costs used in this ratio could be research and development specific, or general overhead personnel costs, or total personnel, depending upon the type of organization. This margin is useful in monitoring the amount spent on wages, salaries, and related expenses for each dollar of sales.
+
+Plant and Machinery Turnover Ratio
+Sales / Plant and Machinery. This ratio measures the efficiency of the use of a company’s operating assets.
+
+Preferred Stock
+Synonyms: preference shares
+
+Preferred stock has preferential rights over common stock to both dividends and also to assets in the event that a company is wound up (i.e., preferred stockholders are paid out before common stockholders). Typically, preferred stock dividends are fixed (e.g., 6 percent) and do not increase with rising profits.
+
+Processing
+The translation of financial model inputs or assumptions into financial model outputs.
+
+Property, Plant, and Equipment (PP&E)
+Property, Plant, and Equipment (PP&E) are non-current fixed or capital assets such as buildings, computers, land, and vehicles.
+
+Property, Plant, and Equipment (PP&E) Turnover Ratio
+Sales / Property, Plant & Equipment. This ratio measures the sales a company is able to generate from capital assets.
+
+Quick Ratio
+Current assets – Inventory / Current Liabilities. Quick Ratio is one of the financial analysis ratios that provides a more prudent measure of short-term liquidity recognizing that inventory cannot always be readily converted into cash.
+
+Research and Development Cost Ratio
+Research and development costs / Sales. This margin shows how much the company invests in developing the next generation of products or services for each dollar of sales.
+
+Research and Development Expenses
+These expenses are directly attributable to researching and developing new or improved products or systems.
+
+Reserves
+Reserves are part of shareholders’ equity. Reserves are subdivided into revenue reserves (e.g., retained earnings), which are available to be distributed to the shareholders by way of dividends, and capital reserves (e.g., contributed surplus), which for various reasons are not distributable as dividends.
+
+Retained Earnings (Balance Sheet)
+Synonyms: P&L reserve, Retained earnings reserve
+
+Retained earnings on the balance sheet represent all retained profits accumulated over an organization’s entire life to date which have been reinvested in the business. As the retained earnings ultimately belong to shareholders, they are included as part of shareholders’ equity.
+
+Retained Earnings (Income Statement)
+See net earnings.
+
+Revenue
+Synonyms: sales, sales revenue, turnover
+
+Revenue includes both cash sales and credit sales of goods and services but does not include the sale of fixed assets.
+
+Sales
+See revenue.
+
+Selling Cost Ratio
+Selling costs / Sales. This margin shows how much it costs to sell each dollar of sales.
+
+SG&A (Selling, General, and Administration)
+Operational expenses that include direct and indirect selling expenses and all general and administrative expenses. Rent, heat, lights are all examples of general expenses.
+
+Share Capital
+See capital stock.
+
+Share Premium
+See contributed surplus.
+
+Shareholders’ Equity
+See equity for the definition of Shareholders’ Equity.
+
+Shares
+See capital stock.
+
+Statement of Earnings
+See income statement.
+
+Stock
+See capital stock for the definition of stock.
+
+Stock Repurchases
+When a corporation buys back its own shares in the open market.
+
+Tangible Fixed Assets
+Synonyms: capital assets
+
+Tangible Fixed Assets are fixed assets that have a physical presence and include things like land, buildings, machinery, equipment, computers, and so on.
+
+Tax Expense
+The tax liability that companies, and individuals, are required to pay by law.
+
+Tax Ratio
+Tax / Sales. This financial analysis ratio shows how well management is managing tax.
+
+Turnover
+See revenue.
+
+Turnover Ratio
+Financial analysis ratios that measure an assets’ activity or efficiency in generating revenues or cash. Total assets / Sales.
+
+Work Overhead Ratio
+Direct overhead / Sales. Cost of goods sold is made up of labor, materials, and direct costs. This financial analysis ratio shows the proportion of direct overhead that goes to make up each dollar of sales.
+
+Working Capital
+Working Capital is normally defined as money tied up in the day-to-day operations of an organization. It is approximately equal to current assets less current liabilities. However, many analysts will define working capital more explicitly as inventory and accounts receivable less accounts payable (and exclude other current assets).
+
+https://corporatefinanceinstitute.com/
+
+12b-1 fee
+An annual management fee charged to mutual fund shareholders and calculated as a percentage of the assets under management.
+
+401(k) plans
+An employer-sponsored defined contribution plan. Contributions may be made by employer, employee, or both. The employee’s contributions are tax deferred until distribution after age 59.5 and are limited by the Internal Revenue Code.
+
+accounting equation
+Assets = liabilities + equity, or the value of assets must be equal to the value of the debt and equity that financed them. In personal finance, assets = debts + net worth, or net worth = assets − debts.
+
+actual cash value
+Personal liability insurance in attached to a homeowner’s policy.
+
+adjustable life
+Benefits and premium can be adjusted without cancellation of the policy.
+
+angel investor
+An individual or group providing equity financing; usually a wealthy individual.
+
+asset allocation
+The strategy of achieving portfolio diversification by investing in different asset classes.
+
+asset class
+A kind of investment distinguished by its uses and market (e.g., stock, bonds, fine art, real estate, currency).
+
+assets
+Resources that can be used to create future economic benefit, such as increasing income, decreasing expenses, or storing wealth as an investment.
+
+authorized shares
+Shares of common or preferred stock that have been authorized for issuance by a corporation’s board of directors.
+
+back-end load
+A deferred sales charge or sales fee charged when shares are redeemed.
+
+balance sheet
+A list of all assets, liabilities, and equity or net worth, at a given point in time, providing a concise picture of financial condition at that time.
+
+bankruptcy
+An economic situation when the value of debts is greater than the value of the assets that can be used to satisfy them. Formal bankruptcy is also a legal process aiming to compensate creditors, governed by the laws of the nation or state in which it occurs.
+
+basic insurance
+Health insurance that covers the costs of physician expenses, surgical expenses, and hospital expenses.
+
+Bodily injury liability
+A system of auto insurance where the insured’s insurance covers physical and property damage and liability, regardless of “fault” determined.
+
+Bonds
+Publicly issued and traded long-term debt used by corporations and governments.
+
+budget deficit
+A shortfall of available funds created when income is less than the expenses.
+
+budget surplus
+An excess of available funds created when income is greater than the expenses.
+
+business cycle
+Recurring periods of economy-wide expansion, when the economy is growing, and contraction, when the economy is shrinking. Cycles are often measured by the increase or decrease in the GDP.
+
+buyout option
+A feature of a lease that offers the option to buy the asset financed by the lease at the end of the lease term.
+
+callable
+A bond that may be redeemed before maturity.
+
+Capital allocation
+A strategy of diversifying a portfolio between risky and riskless assets.
+
+capital gain
+Wealth created when an asset is sold for more than the original investment.
+
+capital loss
+Wealth lost when an asset is sold for less than the original investment.
+
+capital market
+A market where long-term liquidity is traded.
+
+cash surrender value
+The value of a whole life policy—the cash available for the policyholder—if the policy is canceled before the death of the insured.
+
+Closed-end funds
+A mutual fund that issues a limited number of shares, so that existing shares must be sold to new investors.
+
+Co-pays
+Partial payment for certain costs, made by the insured.
+
+Coinsurance
+Shared payments by insured and insurer.
+
+collision
+Responsibility for damage to property owned by people other than the driver at fault.
+
+Commodities
+Raw materials—natural resources or agricultural products—used as inputs in processing goods and services.
+
+Comprehensive physical damage
+Responsibility for damage to the property of the driver at fault.
+
+consumption tax
+A sales or excise tax that taxes the consumption of discretionary and nondiscretionary goods and services.
+
+cost of debt
+The cost of borrowing capital because of having to pay interest on the principal.
+
+cost of equity
+The cost of having to share the benefits—capital gains or income (dividends)—from the investment.
+
+coupon
+The interest payment on a bond, specified as a feature of the bond at issuance.
+
+coupon rate
+The interest rate offered on a bond.
+
+covenants
+A condition placed on bond issuers (borrowers) to protect bondholders (lenders).
+
+credit market
+A part of the capital market where capital is lent and borrowed through the trading of debt securities such as bonds.
+
+creditors
+Lenders; anyone to whom debt is owed.
+
+debt
+Borrowed capital, a liability, a loan that must be repaid.
+
+Deductibles
+Costs paid by the insured before the insurer provides coverage.
+
+defined benefit plan
+A pension plan sponsored by an employer in which the employer commits to providing a specific amount of benefit based on wages and tenure to retired employees.
+
+defined contribution retirement plans
+A pension plan sponsored by an employer in which the employer commits to providing a specific amount of contribution to a retirement account owned by an active employee.
+
+deflation
+Period characterized by falling prices, increasing purchasing power, and higher currency values (one unit of currency is worth more because it buys a greater quantity of goods and services).
+
+depression
+A prolonged and severe recession.
+
+derivatives
+Financial instruments such as options, futures, forwards, securitized assets, and so on whose value is derived from the value of another asset.
+
+Disability insurance
+Insurance to protect the insured against the risk of being unable to earn wages or salary as a result of injury or illness.
+
+diversification
+The strategy of reducing risk by spreading income and investments among a number of different kinds, sources, and locations.
+
+dividend
+A share of corporate profit distributed to shareholders, usually as cash or corporate stock.
+
+endorsements
+Valuable property insured separately under a homeowner’s policy.
+
+equity
+An ownership share in an asset, entitling the holder to a share of the future gain (or loss) in asset value and of any future income (or loss) created.
+
+Estate taxes
+A tax on the intergenerational transfer of wealth after death.
+
+exchange-traded fund (ETF)
+A fund that tracks an index or a commodity or a basket of assets but is traded like stocks on a stock exchange.
+
+Exchange-traded funds (ETFs)
+A mutual fund that is structured as a closed-end fund and actively traded on an exchange.
+
+Excise taxes
+A tax on a specific item produced within a country.
+
+executor
+The person named in a will who administers the payments of debts and the distribution of assets, as described in the will.
+
+expected return
+The return expected for an investment based on its average historical performance. Statistically, it is the mean or average of the investment’s past performance.
+
+Expenses
+The costs of consumption or daily living.
+
+extended replacement costs
+The full cost of replacing insured items at time of loss.
+
+face value
+For a bond, the amount to be repaid to the bondholder upon redemption.
+
+financial engineering
+The use of mathematical modeling to create and value new financial instruments and markets.
+
+fixed interest rate
+A bond interest rate that does not change over time, from issuance to maturity.
+
+flexible savings account
+An account created with regular payroll deductions by an employee to finance supplemental health care costs. Monies must be expended within a specified time period or forfeited (“use it or lose it”).
+
+floating interest rate
+A bond interest rate that changes over time, usually related to a benchmark rate such as the U.S. discount rate or prime rate.
+
+formulary
+A list of drugs covered by an insurer under a prescription drug plan.
+
+forward contracts
+A private contract to buy or sell an asset at a specified time and price in the future.
+
+front-end load
+The sales charge for mutual fund shares, quoted as a percentage of the funds invested; it cannot be more than 8.5 percent of investment.
+
+future value
+The value of a present liquidity or projected series of cash flows in the future, accounting for the effects of time on value.
+
+Futures
+A publicly traded contract to buy or sell an asset at a specified time and price in the future.
+
+general obligation bond
+A state or municipal bond secured only by the “full faith and credit” of the issuer.
+
+go public
+To raise capital by issuing equity shares through a public exchange.
+
+gross domestic product
+The total value of all final goods and services produced in a year in a nation’s economy. It is used as a fundamental measure of an economy’s growth based on its ability to use resources productively and provide for its members.
+
+growth stock
+A stock that is expected to offer excessive rates of growth.
+
+Guaranteed replacement costs
+Cost of replacing insured property at time of loss.
+
+health maintenance organization
+An organization to provide “managed care” through reliance on primary care physicians and a network of specialists, with an emphasis on preventative care.
+
+health reimbursement account
+An employer owned and funded account to finance employee health care costs, with the employee choosing the type of coverage.
+
+health savings account
+Individually owned and financed savings accounts that may be used to finance health care costs with tax-deductible contributions.
+
+high-yield bonds
+Bonds rated BB or Ba or lower, considered to have significant default risk.
+
+holographic will
+A handwritten or oral will.
+
+Income
+Earnings of a given period. In the case of an individual or household, this is generally cash from wages, interest, dividends, or assets (such as rental income from real estate) that can be used for consumption or saved.
+
+index fund
+A mutual fund designed to track the performance of an index for investors who seek diversification without having to select securities.
+
+index funds
+A mutual fund designed to track the performance of an index for investors who seek diversification without having to select securities.
+
+inflation
+Period characterized by rising prices, declining purchasing power, and lower currency values (one unit of currency is worth less because it buys a smaller quantity of goods and services).
+
+initial public offering (IPO)
+A company’s first issuance of stock for trade in the public markets. Companies issue stock publicly to attract more investors and thus more capital for the company. When a company has its IPO is it said to “go public.”
+
+interest
+The cost of debt expressed as an annual percentage of the principal.
+
+intestate
+To die without a valid will, leaving the disposition of assets and debts to the law.
+
+investment grade bonds
+Bonds rated BBB or Baa or higher and considered to carry insignificant default risk.
+
+issue price
+The original market price of a bond at issuance.
+
+junk bonds
+High yield bonds rated BB or Ba or lower and considered to have significant default risk.
+
+labor market
+Where labor is traded through hiring or employment and price is determined by the interaction of employers and employees.
+
+lease
+A rental agreement used as a form of financing for automobile purchases.
+
+Lemon laws
+Federal and state laws protecting consumers against products that repeatedly fail to meet standards of performance. The federal Magnuson-Moss Warranty Act was enacted in 1975.
+
+life cycle investing
+An investment strategy in which asset allocation is based on the investor’s age or stage of life.
+
+Life insurance
+Insurance to compensate beneficiaries against the financial consequences of the death of the insured.
+
+life stages
+Periods of a person’s life based on age and personal circumstances that reflect different needs, goals, and financial capabilities.
+
+liquidity
+Nearness to cash, or how easily and cheaply—with low transaction costs—an asset can be turned into cash.
+
+listed property
+Responsibility for another’s use of your possessions, or for another’s actions, under certain circumstances.
+
+living trust
+A trust created while the grantor is alive.
+
+living will
+A document conveying your intentions for your personal care and management of your assets should you become unable to do so before your death.
+
+load fund
+A mutual fund that charges a sales commission or fee upon investment or purchase of shares; the load is stated as a percentage of invested funds.
+
+Long-term care insurance
+Insurance to provide for permanent assistance with activities of daily living in the event of disabling injury or illness.
+
+major medical insurance
+Insurance for the costs of serious injury or illness.
+
+Managed care organizations
+Organizations or networks of health care providers based on the principle of providing preventative care in order to better health and lower costs of health care. Such organizations also provide for emergency and special treatment services under various systems.
+
+market capitalization
+The total market value of a corporation’s capital.
+
+maturity
+The date on which payment of a financial obligation is due, such as bond redemption date.
+
+maturity date
+Date at which a bond matures, or the end of the bond’s term, when the bond must be redeemed.
+
+Medicaid
+A federal program financing health care costs with eligibility based on income.
+
+medical payments coverage
+Responsibility for financial losses from injuries sustained in an accident for people outside of the car of the driver at fault.
+
+Medicare
+A federal program financing health care costs with eligibility based on age (for those over age sixty-five).
+
+MSRP
+The “sticker price” for an item
+
+municipal bonds
+Bonds issued by a city, town or state to finance public projects. The coupon payments may, under certain circumstances, not be subject to federal income tax for the bondholder.
+
+mutual fund
+A portfolio of investments created by an investment company such as a brokerage or bank. It is financed as the investment company sells shares of the fund to investors. For investors, a mutual fund provides a way to achieve maximum diversification with minimal transaction costs through economies of scale.
+
+Negative net worth
+The mathematical result of liabilities being greater than the value of assets, or debts being larger than the value that can be used to meet them.
+
+negligence
+Failure to take ordinary precautions or the failure to take usual precautions.
+
+net asset value (NAV)
+When used regarding open-end mutual funds, NAV refers to the redeemable value of each fund share at that time, given the market value of the fund’s assets and the number of shares outstanding.
+
+net worth
+The value of assets owned after creditors’ claims (debts) are accounted for, or literally, assets − debts.
+
+no-fault insurance
+Insured amount capped at a specified percentage of actual cash value.
+
+no-load fund
+A mutual fund that does not charge a sales commission or fee upon investment or purchase of shares.
+
+open-end funds
+A mutual fund in which shares are bought from and sold to the fund management; the number of shares is not limited.
+
+opportunity cost
+The cost of sacrificing the next best choice because of the choice made; the value of the next best choice, which is forgone once a choice is made.
+
+Options
+The right but not the obligation to buy or sell at a specific price at a specific time in the future; commonly written on shares of stock as well as on stock indices, interest rates, and commodities.
+
+Pension Benefit Guaranty Corporation (PBGC)
+An agency of the federal government that guarantees defined benefit pensions in the case of employer default.
+
+pension plan
+An employer-sponsored, defined benefit plan providing a regular, specified amount of pension, based on wages and years of service.
+
+point-of-service (POS)
+A type of managed care in which physicians, hospitals, and other care providers contract with an insurer to provide care at reduced rates upon referral from the insured’s primary care physician. Unlike the HMO, out-of-network providers may be used, but on a limited basis.
+
+power of attorney
+The legal right to act on your behalf should you become unable to do so before your death.
+
+preferred provider organization (PPO)
+A type of managed care in which physicians, hospitals, and other care providers contract with an insurer to provide care at reduced rates upon referral from the insured’s primary care physician. Unlike the HMO, out-of-network providers may be used.
+
+present value
+The costs of achieving a trade or “doing a deal” that do not contribute to the value of the thing being traded; a cost created by making an economic transaction.
+
+primary market
+The market in which the initial issuance or initial public offering of a stock occurs.
+
+prime rate
+A benchmark interest rate understood to be the rate that major banks charge corporate borrowers with the least default risk.
+
+principal
+The original amount of borrowed capital (a loan).
+
+private equity
+Equity not traded in a public market or exchange.
+
+Probate
+The legal process of validating a will and overseeing the orderly payment of debts and the distribution of assets.
+
+Property damage liability
+Coverage of financial losses from injuries sustained in an accident if the driver at fault has insufficient insurance.
+
+prospectus
+A written statement of a mutual fund’s structure, management, investment objectives, holdings, and historic and current performance; funds are required to make the prospectus available to all potential investors.
+
+purchasing power
+A currency’s usefulness and thus its value as measured by how much it can buy, that is, the quantity of goods and services that can be purchased with one unit of currency.
+
+rating agencies
+Analysts of bond default risk that assign ratings to bonds.
+
+recession
+A period of economic contraction lasting at least six consecutive months or two consecutive quarters.
+
+redeemable
+A bond that is eligible for redemption.
+
+regressive tax
+A tax rate that decreases as the amount to be taxed increases.
+
+replacement cost
+Market value of insured property at time of loss.
+
+revenue bond
+A state or municipal bond that will be repaid from revenues of the specific project it is financing.
+
+rider
+A clause to a policy that adds specific benefits under specific conditions.
+
+risk
+In finance, the probability that the value of an asset, income, or investment may decline in the future.
+
+rollover
+A retirement plan that may accept or distribute funds from another qualified retirement account without tax consequence or penalty.
+
+Roth IRA
+An individual retirement account for which contributions are not deductible but withdrawals are not taxed.
+
+secondary market
+A market in which outstanding shares are traded.
+
+Security selection
+The process of choosing individual securities to be included in the portfolio.
+
+Social Security
+The mandatory retirement program sponsored by the U.S. government to provide supplemental retirement income. It is funded by a tax (FICA) paid by employers and employees and by self-employed individuals who act as both employer and employee.
+
+speculative grade bonds
+High yield bonds rated BB or Ba or lower and considered to have significant default risk.
+
+standard deviation
+In finance, the statistical measure that calculates the frequency and amount by which actual returns differ from the average or expected returns.
+
+statutory will
+A will written on a preprinted form.
+
+stock exchange
+An organized market for the trading of corporate shares conducted by members of the exchange.
+
+Stocks
+Shares issued to account for ownership, as defined by owners’ contributions to a corporation.
+
+sunk costs
+Costs that have been incurred in past transactions and cannot be recovered.
+
+Term insurance
+Life insurance providing coverage for a specified period of time.
+
+testamentary trust
+A trust created by a will that becomes effective upon the death of the grantor.
+
+time value of money
+The impact of the passing of time on the value of money, based on the premise that being separated from liquidity creates opportunity cost.
+
+Traditional IRA
+An individual retirement account for which contributions are tax deductible and withdrawals are taxed.
+
+transfer
+The movement of funds in a tax-advantaged retirement account from one trustee or asset manager to another that is not considered a withdrawal or distribution of funds.
+
+Treasury bills
+Bonds issued by the U.S. government with a maturity of less than one year.
+
+Treasury bonds
+Bonds issued by the U.S. government with a maturity of more than ten years.
+
+Treasury notes
+Bonds issued by the U.S. government with a maturity of between one and ten years.
+
+trust
+A legal entity created to own and manage assets for the benefit of beneficiaries.
+
+umbrella policy
+The clause of a homeowner’s policy insuring listed property.
+
+unemployment rate
+A measure of the percentage of people in the labor force who are unemployed, that is, those who would like to be working but cannot find a suitable job.
+
+Uninsured motorist protection
+Responsibility for financial losses from injuries sustained in an accident for people inside of the car of the driver at fault.
+
+universal life
+Benefits and premiums are flexible, in terms of both timing and amounts.
+
+value stock
+A stock whose return is based on its current underpricing by the market.
+
+value-added tax
+A consumption tax that spreads the tax burden among producers and consumers by taxing the value added to goods at each stage of production and consumption.
+
+variable life
+Life insurance that provides a guaranteed minimum benefit with potential to be greater depending on investment performance.
+
+venture capital
+Private equity provided to facilitate excessive growth before the initial public offering of shares.
+
+vesting
+The process of earning full ownership in an employer-sponsored retirement plan according to length of service.
+
+vicarious liability
+Strict liability, responsibility for intentional or unintentional events.
+
+warranty
+A manufacturer’s guarantee of product performance for a period of time.
+
+whole life
+Life insurance providing coverage until the insured’s death; it can also be used as an investment instrument.
+
+will
+A legal document detailing the disposition of assets upon death.
+
+zero-coupon bond
+A bond that has a coupon rate of zero, and therefore a coupon of zero. Its only cash flow return is the principal repayment at maturity.
+
+https://pressbooks.atlanticoer-relatlantique.ca/mathofmoney/back-matter/glossary-terms/
+
+
+
+Physical assets
+Physical asset investment involves directly owning tangible assets with the expectation of value appreciation or stability. Physical assets, ranging from real estate and precious metals to art and collectibles, have different advantages and disadvantages compared to financial products like stocks and bonds.
+
+This article introduces the basics of physical asset investment, its benefits and drawbacks, and the types of representative physical assets. If you’re considering physical asset investment, please use this as a reference.
+
+What is Physical Asset Investment?
+Physical asset investment is an investment method that involves purchasing and holding actual physical assets rather than financial products like stocks, bonds, or investment trusts. These “physical assets” are diverse and include the following categories:
+
+Real estate
+Precious metals (gold and silver)
+Art
+Antique coins
+Wine
+Physical asset investment is gaining attention as part of risk diversification because asset values tend to fluctuate over time and are less susceptible to market trends. Below, we’ll explain in detail the differences between physical assets and financial investments, and why physical asset investment has been attracting attention in recent years.
+
+Differences Between Physical Assets and Financial Assets
+Physical assets and financial assets are often compared as investment targets, but they have significantly different characteristics, risks, and revenue structures. Let’s look at the differences in detail below.
+
+Physical Assets
+Physical assets are tangible, real assets. Specifically, they include the following:
+
+Real estate	Refers to assets that can be used as physical space, such as land and buildings.
+Precious metals	Metals such as gold, silver, and platinum. Traded as decorative items or investment bullion.
+Art and antiques	Paintings, sculptures, antique art objects, etc. Works by specific artists or from certain eras can have high value.
+Collectibles	Items with high rarity value, such as antique coins, stamps, vintage wines, classic cars, etc.
+The characteristic of physical assets is that they have a physical form and are less directly affected by market fluctuations. They are also considered suitable for preserving asset value due to their resistance to inflation.
+
+On the other hand, physical assets incur storage costs and maintenance expenses. For example, real estate requires property taxes and management fees, while art pieces need secure storage space and temperature/humidity control.
+
+Furthermore, it’s important to understand that they have low liquidity and are difficult to quickly convert to cash.
+
+Financial Assets
+Financial assets are assets based on intangible certificates or rights, such as cash itself, stocks, bonds, and investment trusts. Main financial assets include the following:
+
+Stocks	Held as proof of investment in a company, allowing for dividends and capital gains.
+Bonds	Securities for earning interest income on loans to countries or companies.
+Investment trusts	Aim for risk diversification and profit expansion by depositing funds into assets managed by professionals.
+The advantage of financial assets is their high liquidity and relatively easy trading. Due to developed securities markets, online trading is possible, offering the benefit of quickly converting assets to cash.
+
+However, financial assets are susceptible to market trends, with the risk of significant fluctuations in asset value due to changes in stock prices or interest rates. They are also more susceptible to currency value depreciation due to inflation.
+
+Why is Physical Asset Investment Attracting Attention?
+The background for the recent attention to physical asset investment includes concerns about financial market instability and inflation. Here are the main reasons why physical asset investment is attracting attention:
+
+Market instability and risk diversification
+Strong resistance to inflation
+Low-interest environment and diversification of investment opportunities
+Digitalization and improvement of investment environment
+When financial markets become volatile, the value of financial assets like stocks and bonds fluctuates greatly. Especially when market volatility continues due to external factors such as economic recessions caused by the Lehman shock or pandemics, investors tend to move funds from high-risk assets to safer assets.
+
+Against this background, investment in physical assets is attracting attention as a means of risk diversification. For example, real estate and precious metals are considered less susceptible to stock price fluctuations and tend to maintain stable value over the long term.
+
+Also, collectibles such as art and wine may increase in price due to increased rarity or popularity. These physical assets have unique appeals not found in financial assets, making them attractive investment targets for investors interested in specific fields.
+
+In recent years, the digitalization of physical asset investment has progressed, making it possible to trade online. This has made it easier for general investors to purchase precious metals or participate in art auctions online, which is a significant factor in the growing attention to physical asset investment.
+
+Benefits and Drawbacks of Physical Asset Investment
+Physical asset investment has unique benefits and drawbacks not found in financial assets. It’s important to understand both the benefits, such as being a hedge against inflation and asset stability, as well as the drawbacks, including liquidity and storage costs.
+
+Let’s explore each of these in detail below.
+
+Benefit: Assets Strong Against Inflation
+One of the major benefits of physical asset investment is its strength against inflation. Inflation decreases the value of currency, so financial assets like cash and bonds risk losing real value due to inflation.
+
+However, physical assets tend to increase in value along with price increases, offering an expected effect as an inflation hedge. Therefore, in addition to representative physical assets like precious metals and real estate, collectibles such as paintings, sculptures, wine, and antique coins are also attracting attention as physical assets that maintain value during inflation.
+
+These items may maintain or increase in price even during inflation due to their rarity, artistic value, or increasing demand. Especially works by famous artists or vintage items tend to fetch high prices in the market, making it easier to preserve asset value over long periods.
+
+In this way, physical asset investment is often used as a means to protect assets from inflation, offering various benefits including risk hedging for investors.
+
+Benefit: Stability of Physical Assets and Risk Management
+Another benefit of physical assets is their usefulness from the perspective of stability and risk management. Unlike financial assets, physical assets involve owning actual tangible items, so their value is less directly affected by economic conditions or market fluctuations.
+
+Financial assets such as stocks, bonds, and investment trusts are sensitive to financial market trends and can experience significant value fluctuations. They have a high risk of price volatility in short periods due to various external factors such as economic crises, interest rate changes, and political instability.
+
+On the other hand, physical assets are relatively resistant to market fluctuations and less likely to be affected by short-term market movements. Especially rare art pieces, precious metals, and real estate tend to maintain their value over long periods.
+
+Therefore, physical assets are attractive options for investors as they are strong against market fluctuations and tend to retain long-term value.
+
+Drawback: Unique Risks Such as Liquidity and Storage Costs
+While physical investment has many benefits, there are also drawbacks not found in financial assets. Particular attention should be paid to the following points regarding risks unique to physical assets:
+
+Low liquidity
+Incurrence of storage and maintenance costs
+Difficulty in price evaluation
+One of the biggest drawbacks of physical assets is their low liquidity. Financial assets like stocks and bonds can be bought and sold in a short time through exchanges, making them easy to convert to cash.
+
+However, physical assets often take time to sell, and it can be difficult to find buyers. Also, because physical assets have a physical form, storage and maintenance costs occur.
+
+For example, with art pieces and collectibles, proper storage conditions (temperature and humidity control, security) are required as the preservation condition directly affects the asset value. Thus, while physical investment has benefits such as resistance to price increases, it’s important to understand that there are also drawbacks such as low liquidity and storage costs.
+
+Types of Representative Physical Investments
+There are various types of physical investments, each with its own characteristics, risks, and profitability. Here, we introduce four representative types of physical investments:
+
+Real estate
+Precious metals
+Art
+Collections
+Real Estate Investment
+Real estate investment is particularly common among physical investments and is an investment method that can expect long-term stability and high profitability. The main purpose is to purchase physical assets such as land and buildings and gain profits through rental or sale.
+
+One of the benefits of real estate investment is the expectation of stable income. By renting out housing, office buildings, or commercial facilities, you can earn monthly rental income.
+
+Also, from a long-term perspective, real estate values often gradually increase, with a high possibility of capital gains at the time of sale. Especially properties in good locations in urban areas or land expected to be developed have high expected returns.
+
+However, real estate investment also has various risks. First, the initial investment amount is large. Purchasing land or buildings requires a large amount of funds, and if taking out a loan, repayment continues over a long period, making careful financial planning essential.
+
+Furthermore, in the case of rental properties, there is a vacancy risk where income stops if there are no tenants. As it is also affected by regional economic conditions and real estate market fluctuations, proper property selection and risk management are required.
+
+Precious Metals (Gold, Silver, Platinum)
+Investment in precious metals is an investment method of purchasing and holding rare metals such as gold, silver, and platinum. Used as a means of value preservation since ancient times, especially gold is still popular among investors as a “safe asset.”
+
+Precious metals tend to have stable prices in the long term, regardless of economic conditions or market trends, due to high global demand and limited supply. Also, investment in precious metals can be done in various ways.
+
+In addition to holding physical assets in the form of bullion or coins, indirect investment through gold ETFs (Exchange Traded Funds) is also possible. In the case of physical possession, there is the advantage of being able to feel the existence of the asset by actually storing the gold at hand.
+
+On the other hand, when holding gold or silver bullion, a safe or specialized storage place is necessary, and security measures must also be considered. Furthermore, although the price fluctuation of precious metals is not as large as financial investments, it is still affected by market supply and demand balance and exchange rates, so it is necessary to understand the risk of price fluctuations.
+
+Art and Collections
+Representative works of Imaizumi Imaemon XIV
+Flower Vase with Floral Sarasa Design on Green Background in Overglaze Enamel, Underglaze Sprayed Ink, and Sumi-hajiki / Bowl with Snowflakes Design in Overglaze Enamel, Underglaze Sprayed Thin Black Ink and Sumi-hajiki: Created by Imaizumi Imaemon XIV
+
+Investment in art and collections is an investment method that involves purchasing items with rarity or artistic value such as crafts, paintings, sculptures, antique furniture, wine, vintage watches, stamps, and coins, expecting their value to increase.
+In recent years, investment in digital art pieces such as NFT (Non-Fungible Token) art has also been attracting attention. Regardless of whether it’s physical or digital, the market value of art can surge when demand increases, making it one of the investment methods that can expect large returns.
+
+The appeal of collection investment lies not only in its value as an asset but also in the enjoyment of its beauty and as a hobby. Many investors purchase not only as assets but also from the joy of ownership, driven by their passion for art and antiques.
+
+On the other hand, investment in art and collections comes with unique risks. First, because value assessment is subjective, it can be difficult to purchase or sell at an appropriate price. Expert appraisal may be necessary, and fees for buying, selling, and storage may occur.
+
+Also, the preservation condition of art pieces greatly affects their value, so proper storage with temperature and humidity control is necessary. Furthermore, the art market has lower liquidity compared to other markets, with the risk of not being able to quickly convert to cash. Therefore, a long-term investment perspective and specialized knowledge are required.
+
+Thus, there are various types of physical investments, each with different risks and returns. When choosing an investment target, it’s important to select the optimal asset according to your investment purpose and risk tolerance.
+
+Points to Consider When Starting Physical Investment
+While physical investment has unique benefits, it also has risks. Therefore, careful preparation and a long-term perspective are necessary when starting investment. Here, we explain important points to keep in mind when starting physical investment.
+
+Confirm Risks and Market Trends Before Investing
+When starting physical investment, it’s important to first thoroughly confirm the risks and market trends of the investment target. Physical assets have unique risks different from financial assets, and without understanding these, proper risk management is impossible.
+
+For example, in the case of real estate, it’s necessary to research the area’s development plans, economic conditions, and demand in the rental market. For precious metals, you should check factors that affect prices such as international situations, central banks’ gold holding trends, and conditions in producing countries.
+
+For art and collections, confirming elements that affect the value of the target object, such as artist evaluations and transaction records in auction markets, will be the first step towards investment.
+
+Criteria for Choosing Physical Assets
+As introduced in this article, there are various types of physical assets, each with different characteristics and risks. When choosing an investment target, it’s important to carefully select based on your investment purpose and financial situation.
+
+Also, storage and security measures are important elements when physically possessing and storing assets. Precious metals and art pieces require proper storage, and costs may be incurred for storage locations and security measures. Therefore, it’s desirable to comprehensively consider including storage costs and choose assets that can be maintained long-term.
+
+However, in recent years, investment targets such as NFT (Non-Fungible Token) art have emerged, which are physical investments but digitalized, reducing risks related to storage and security measures.
+
+A Long-term Perspective Unaffected by Market Fluctuations is Important
+A major characteristic of physical investment is that it tends to retain value over the long term. However, to maximize this characteristic, a long-term perspective unaffected by short-term market fluctuations is necessary.
+
+Therefore, keep the following points in mind when starting physical investment:
+
+Don’t be swayed by short-term price fluctuations
+Position as part of your asset portfolio
+Investment strategy that makes time your ally
+Physical assets may experience short-term price fluctuations due to market trends and external factors. For example, real estate prices are easily affected by economic conditions and interest rate trends, and art and collections may also fluctuate in price due to market trends.
+
+However, focusing on such short-term fluctuations may lead to losses due to unnecessary trading. Physical investment inherently has the advantage of holding assets that maintain or increase in value over the long term, so it’s important to continue holding with a long-term perspective without being swayed by short-term price fluctuations.
+
+Therefore, when starting physical investment, in addition to market trend research, risk understanding, and appropriate asset selection, having a long-term perspective is essential. By keeping these points in mind, you can effectively utilize physical investment and steadily increase your assets.
+
+Conclusion: Physical Investment Requires a Long-term Perspective and Proper Risk Understanding
+Physical investment is an investment method that aims to maintain and increase the value of tangible assets such as real estate, precious metals, and art pieces. Unlike financial assets, physical assets have unique benefits, but they also come with specific risks.
+
+Therefore, to succeed in physical investment, it’s important to research market trends, understand risks, and hold assets with a long-term perspective. While keeping these points in mind, choose physical assets that suit you and use them for future asset building.
+
+Physical investment offers a unique opportunity to diversify your investment portfolio and potentially protect against inflation. However, it’s crucial to approach this type of investment with careful consideration and thorough research.
+
+Remember that physical assets often require more hands-on management than financial assets. This includes considerations for storage, insurance, maintenance, and potentially complex processes for buying and selling. The illiquid nature of many physical assets means that you should be prepared to hold onto these investments for extended periods.
+
+Moreover, the value of physical assets can be subjective and influenced by factors such as trends, rarity, and condition. This makes it essential to develop expertise in your chosen area of investment or to seek advice from professionals.
+
+Despite these challenges, physical investment can be rewarding both financially and personally. Many investors find satisfaction in owning tangible assets, whether it’s a piece of real estate, a collection of rare coins, or a beautiful work of art. These assets can provide a sense of security and personal enjoyment that goes beyond their monetary value.
+
+As with any investment strategy, it’s wise to diversify your portfolio. Physical investments can play a valuable role alongside more traditional financial investments, helping to create a well-rounded and resilient investment approach.
+
+Ultimately, successful physical investment requires patience, knowledge, and a clear understanding of your investment goals. By taking the time to educate yourself and carefully considering your options, you can make informed decisions that align with your financial objectives and personal interests.
+
+Whether you’re just starting to explore physical investments or looking to expand your existing portfolio, remember that the key to success lies in thorough research, careful selection, and a long-term perspective. With these principles in mind, physical investment can be a valuable tool in your overall wealth-building strategy.
+
+
+https://en.kogei-japonica.com/invest/investment-kind/
+
