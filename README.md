@@ -1,5 +1,8 @@
 # Financial-education-SLM
 Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
+```markdown
+# Financial-education-SLM
+Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
 
 
 Understanding the Power of Local Language Models ( SLM financial chatbot)
@@ -29,4 +32,22 @@ Sources:
 Presentation (Prezi Link):
 
 https://prezi.com/view/126TGN0eCgijBZXVbWJF/
+
+
+```
+
+## Quick start (local)
+
+Requirements:
+- Python 3.10+
+- Ollama running locally with `phi4-mini:3.8b` (or adjust model names in code)
+- Install Python dependencies: `flask`, `yfinance`, `langchain_ollama`, `langchain_chroma`, `langchain_core`
+
+Run the app (from repository root):
+
+```bash
+python -m src.app
+```
+
+Then open http://localhost:7860 in your browser. The simple web UI will send messages to `/api/chat` and display the bot replies. The backend uses the existing `retriever` and `get_stock_price` functions in `src/vector.py`.
 

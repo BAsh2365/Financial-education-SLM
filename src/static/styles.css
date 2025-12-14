@@ -1,0 +1,12 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial; margin:0; background:#f5f7fb; }
+.app { max-width:880px; margin:32px auto; background:white; border-radius:8px; box-shadow:0 6px 18px rgba(20,24,40,0.08); overflow:hidden; display:flex; flex-direction:column; height:80vh }
+header { padding:16px 20px; border-bottom:1px solid #eef2f7 }
+header h1 { margin:0; font-size:18px }
+main#chat { padding:16px; overflow:auto; flex:1; display:flex; flex-direction:column; gap:8px }
+.message { padding:10px 14px; border-radius:12px; max-width:80%; }
+.message.user { background:#dbeafe; color:#032e5b; align-self:flex-end }
+.message.bot { background:#eef2f7; color:#021124; align-self:flex-start }
+form { display:flex; gap:8px; padding:12px; border-top:1px solid #eef2f7 }
+input { flex:1; padding:10px 12px; border-radius:8px; border:1px solid #d1dbe8 }
+button { padding:10px 14px; border-radius:8px; border:0; background:#0b63ff; color:white }
