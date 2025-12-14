@@ -1,8 +1,6 @@
 # Financial-education-SLM
 Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
 
-Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
-
 
 Understanding the Power of Local Language Models ( SLM financial chatbot)
 From Information and Tutorials gathered online, using Python, Ollama, Langchain, the Yahoo Finance API, and various compiled, trusted financial sources (such as Investopedia, Fidelity, BlackRock, etc. through GPT Deep research, I built a local financial assistant that helps users enter personal financial information (which is not shared with anyone) on their local machine. The SLM (using Microsoft's Phi-4-mini model found on Ollama) answers any quick questions related to investments, retirement, and other financial topics. The goal of the SLM is to serve as a tool that educates people on finances through specific use cases. 
