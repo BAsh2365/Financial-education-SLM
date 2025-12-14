@@ -1,7 +1,6 @@
 # Financial-education-SLM
 Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
-```markdown
-# Financial-education-SLM
+
 Financial SLM chatbot using Model and architecture from Ollama, ChromaDB, and Langchain
 
 
@@ -34,7 +33,6 @@ Presentation (Prezi Link):
 https://prezi.com/view/126TGN0eCgijBZXVbWJF/
 
 
-```
 
 ## Quick start (local)
 
